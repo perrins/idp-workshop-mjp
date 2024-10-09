@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: my-example-service
+  name: ey-sample-component
   description: |
-    My Example service which has something to do with APIs and database.
+    Sample component for registration in the Harness Experience
   links:
     - title: Website
-      url: http://harness.io
+      url: http://fabric.ey.com
   annotations:
     github.com/project-slug: harnessworkshop/idp-workshop
     backstage.io/techdocs-ref: dir:../
@@ -18,10 +18,10 @@ metadata:
 #  labels:
 #    key1: value1
   tags:
-    - yournamehere
+    - perrins
 spec:
   type: service
-  owner: change-value
+  owner: TeamA
   lifecycle: experimental
 #  system: Demo
 #  dependsOn:
