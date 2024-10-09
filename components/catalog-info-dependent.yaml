@@ -11,10 +11,10 @@ metadata:
     github.com/project-slug: harnessworkshop/idp-workshop
     backstage.io/techdocs-ref: dir:../
     lighthouse.com/website-url: https://harness.io
-#    harness.io/services: |
-#      paymentService: https://app.harness.io/ng/account/IFG41DWvSnaRLOVNB2uesg/cd/orgs/demoorg/projects/paymentservice/services/paymentservice
-#    harness.io/pipelines: |
-#      paymentService: https://app.harness.io/ng/account/IFG41DWvSnaRLOVNB2uesg/cd/orgs/demoorg/projects/paymentservice/pipelines/harnesscicd/pipeline-studio?storeType=INLINE
+    harness.io/services: |
+      paymentService: https://app.harness.io/ng/account/IFG41DWvSnaRLOVNB2uesg/cd/orgs/demoorg/projects/paymentservice/services/paymentservice
+    harness.io/pipelines: |
+      paymentService: https://app.harness.io/ng/account/IFG41DWvSnaRLOVNB2uesg/cd/orgs/demoorg/projects/paymentservice/pipelines/harnesscicd/pipeline-studio?storeType=INLINE
 #  labels:
 #    key1: value1
   tags:
